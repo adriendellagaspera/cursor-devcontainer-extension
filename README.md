@@ -1,5 +1,7 @@
 # DevContainer Clone Extension
 
+> Status: **Active development** – building out Cursor parity with VSCode Dev Containers.
+
 A Cursor extension that implements missing DevContainer commands from the VSCode DevContainers extension.
 
 ## Objective
@@ -36,7 +38,7 @@ This repository aims to bridge the gap between VSCode's DevContainers extension 
 1. **Install Dev Container CLI**: Command line tool support
 2. **Add/Remove Extension to/from devcontainer.json**: Extension management
 
-This hierarchical structure ensures that each level builds on solid foundations and enables iterative and testable development. The implementation order respects the natural dependencies between commands and their underlying components.
+This hierarchical structure ensures that each level builds on solid foundations and enables iterative and testable development. The implementation order respects the natural dependencies between commands and their underlying components. Each milestone will be documented in a short changelog entry so downstream users can track extension maturity.
 
 ## Documentation
 
