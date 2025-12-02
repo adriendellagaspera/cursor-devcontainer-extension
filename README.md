@@ -1,6 +1,6 @@
 # DevContainer Clone Extension
 
-> Status: **Active development** – building out Cursor parity with VSCode Dev Containers.
+> Status: **Pending** – building out Cursor parity with VSCode Dev Containers.
 
 A Cursor extension that implements missing DevContainer commands from the VSCode DevContainers extension.
 
